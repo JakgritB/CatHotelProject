@@ -12,6 +12,15 @@ For Hotel staff:
 - **Real-time Updates**: Hotel staff can update cat statuses in real-time.
 - **Reservation Management**: Hotel staff can view and manage customer reservations.
 
+## Demo
+<div align="center">
+Click to play video </br>
+  <a href="https://www.youtube.com/watch?v=1HrHpbMARmw">
+    <img src="https://img.youtube.com/vi/1HrHpbMARmw/0.jpg" alt="YouTube Video"align="center" />
+  </a> 
+</div>
+
+
 ## Technologies Used 🛠️
 
 - **Frontend**: TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Next.js
